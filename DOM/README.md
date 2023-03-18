@@ -12,3 +12,4 @@
 ## DOM II
 
 - ***[Assignment7](./assignment7/)***
+- ***[Assignment8](./assignment8/)***
