@@ -16,3 +16,7 @@
 - ***[Assignment9](./assignment9/)***
 - ***[Assignment10](./assignment10/)***
 - ***[Assignment11](./assignment11/)***
+
+## DOM Challenge
+
+- ***[Assignment12](./assignment12/)***
