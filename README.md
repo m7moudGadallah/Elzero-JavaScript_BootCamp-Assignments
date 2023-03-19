@@ -7,4 +7,5 @@ access tasks from [here](https://elzero.org/category/assignments/javascript-boot
 ## Content
 
 - ***[Introduction](./introduction/)***
+- ***[Datatypes & Variables](./datatypes_and_variables/)***
 - ***[DOM](./DOM/)***
