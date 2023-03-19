@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>Learn JavaScript</title>
+        <script>
+            /*
+                warning: this script doesn't effect on element
+                    reason: script before element so script can't read element
+            */
+            document.getElementById("el").style.color = "red";
+        </script>
+        <script>
+            /*
+                when the window loaded we will change the font color of an element with id `el` to be red
+
+                so this script will affect the page successfully
+            */
+            window.onload = function () {
+                document.getElementById("el").style.color = "red";
+            };
+        </script>
+    </head>
+    <body>
+        <h1 id="el">Page Title</h1>
+        <script>
+            /*
+                this script will affect the page successfully
+                    reason: script after the element so element will be loaded firstly then script can read it
+            */
+            document.getElementById("el").style.color = "red";
+        </script>
+    </body>
+</html>
