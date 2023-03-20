@@ -1,4 +1,4 @@
-# Assignment2
+# Assignment1
 
 *[JavaScript](./main.js)*  
 
