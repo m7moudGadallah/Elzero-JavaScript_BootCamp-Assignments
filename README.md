@@ -8,4 +8,6 @@ access tasks from [here](https://elzero.org/category/assignments/javascript-boot
 
 - ***[Introduction](./introduction/)***
 - ***[Datatypes & Variables](./datatypes_and_variables/)***
+- ***[Operators](./operators/)***
+- ***[Numbers](./numbers/)***
 - ***[DOM](./DOM/)***
