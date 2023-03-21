@@ -14,4 +14,6 @@ access tasks from [here](https://elzero.org/category/assignments/javascript-boot
 - ***[Comparison & Logical Operators](./comparison_and_logical_operators/)***
 - ***[If Condition](./if_condition/)***
 - ***[Switch Statement](./switch/)***
+- ***[Arrays](./arrays/)***
+- ***[Loops](./loops/)***
 - ***[DOM](./DOM/)***
