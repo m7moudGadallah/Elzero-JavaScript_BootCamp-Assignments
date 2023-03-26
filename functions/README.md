@@ -8,3 +8,7 @@
 - ***[Assignment4](./assignment4/)***
 - ***[Assignment5](./assignment5/)***
 - ***[Assignment6](./assignment6/)***
+
+## Function And Scopes
+
+- ***[Assignment1](./assignment7/)***
