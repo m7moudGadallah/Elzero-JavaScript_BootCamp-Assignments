@@ -12,3 +12,4 @@
 ## Function And Scopes
 
 - ***[Assignment1](./assignment7/)***
+- ***[Assignment2](./assignment8/)***
