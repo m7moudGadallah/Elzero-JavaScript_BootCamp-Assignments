@@ -19,3 +19,4 @@
 ## Higher Order Functions
 
 - ***[Assignment1](./assignment11/)***
+- ***[Assignment2](./assignment12/)***
