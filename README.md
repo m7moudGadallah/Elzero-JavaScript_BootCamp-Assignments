@@ -17,4 +17,5 @@ access tasks from [here](https://elzero.org/category/assignments/javascript-boot
 - ***[Arrays](./arrays/)***
 - ***[Loops](./loops/)***
 - ***[Functions](./functions/)***
+- ***[Objects And Methods](./objects/)***
 - ***[DOM](./DOM/)***
